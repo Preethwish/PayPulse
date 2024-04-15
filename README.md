@@ -1,4 +1,4 @@
-# Pay Pulse
+# PayPulse
 ### Overview
 This is a full-stack payment project developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack with Tailwind CSS for styling. The project consists of both frontend and backend components to provide a complete payment solution.
 
