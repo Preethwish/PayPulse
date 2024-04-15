@@ -4,15 +4,15 @@ This is a full-stack payment project developed using the MERN (MongoDB, Express.
 
 ### Features
 #### Frontend:
-1.Sign In: Allows users to sign in to their accounts.
-2.Sign Up: Enables users to create new accounts.
-3.Dashboard: Provides a centralized hub for users to manage their accounts and transactions.
-4.Send Money Page: Allows users to send money to other users.
+- Sign In: Allows users to sign in to their accounts.
+- Sign Up: Enables users to create new accounts.
+- Dashboard: Provides a centralized hub for users to manage their accounts and transactions.
+- Send Money Page: Allows users to send money to other users.
 #### Backend:
-1.User Database: Stores user information including login credentials.
-2.Account Database: Manages user account details and transaction history.
+- User Database: Stores user information including login credentials.
+- Account Database: Manages user account details and transaction history.
 ### Technologies Used
-1.Frontend: React.js, Tailwind CSS
-2.Backend: Node.js, Express.js
-3.Database: MongoDB
-4.Authentication: JWT (JSON Web Tokens)# PayPulse
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT (JSON Web Tokens)# PayPulse
